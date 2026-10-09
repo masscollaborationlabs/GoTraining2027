@@ -35,4 +35,12 @@ func main() {
 
 	fmt.Print(name)
 	fmt.Println(surname)
+
+	// integer
+
+	// https://youtu.be/RM4NXAp7Fg0?list=PL1i2Llx7XoAWrIXRPi3YAJ5vZ8lh3083O Teşekkürler hocam :)
+
+	var number int64 = 111
+
+	fmt.Println(number)
 }
