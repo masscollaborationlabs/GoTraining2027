@@ -43,4 +43,11 @@ func main() {
 	var number int64 = 111
 
 	fmt.Println(number)
+
+	// float
+
+	var y float32 = 6.4
+
+	fmt.Println(y)
 }
+
