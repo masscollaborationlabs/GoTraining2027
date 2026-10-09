@@ -28,5 +28,11 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("hello") 
+	fmt.Println("hello")
+
+	var name string = "Mert "
+	var surname string = "Gör"
+
+	fmt.Print(name)
+	fmt.Println(surname)
 }
