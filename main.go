@@ -52,4 +52,11 @@ func main() {
 
 	//	fmt.Println( number + int(y))
 	fmt.Println(number + int64(y)) // type conversion
+
+	//	var isActive bool = false // bool türü
+
+	salary := 1024 // var salary int başlangıç değeri verilmeli
+
+	fmt.Println(salary)
 }
+
