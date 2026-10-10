@@ -63,11 +63,12 @@ func main() {
 	var name string = "Jack "
 	var surname = "Nicholson"
 	var school string = "Los Angeles Lakers"
-
+	var house string
+	
 	fmt.Print(name)
 	fmt.Println(surname)
 	fmt.Println(school)
-
+	fmt.Println(house)
 	// integer
 
 	// https://youtu.be/RM4NXAp7Fg0?list=PL1i2Llx7XoAWrIXRPi3YAJ5vZ8lh3083O Teşekkürler hocam :)
