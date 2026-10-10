@@ -49,5 +49,7 @@ func main() {
 	var y float32 = 6.4
 
 	fmt.Println(y)
-}
 
+	//	fmt.Println( number + int(y))
+	fmt.Println(number + int64(y)) // type conversion
+}
