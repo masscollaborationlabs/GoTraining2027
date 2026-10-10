@@ -30,8 +30,8 @@ import "fmt"
 func main() {
 	fmt.Println("hello")
 
-	var name string = "Mert "
-	var surname string = "Gör"
+	var name string = "Jack "
+	var surname = "Nicholson"
 
 	fmt.Print(name)
 	fmt.Println(surname)
