@@ -62,9 +62,11 @@ func main() {
 
 	var name string = "Jack "
 	var surname = "Nicholson"
+	var school string = "Los Angeles Lakers"
 
 	fmt.Print(name)
 	fmt.Println(surname)
+	fmt.Println(school)
 
 	// integer
 
